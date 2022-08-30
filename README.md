@@ -22,8 +22,8 @@
 
 <b>⚡ Github Stats</b>
 <p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sureshvickey&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sureshvickey&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sureshvickey&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
 </p>
 
 #### Connect With Me
@@ -33,6 +33,6 @@
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 </a> 
 <a href="mailto:vigneshandroyd@gmail.com">
-  <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
 </a>
 </p>
