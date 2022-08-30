@@ -16,7 +16,7 @@
 
 #### My Current Stack
 
-<img height="48" src="img/android.svg" alt="Android"> <img height="48" src="img/java-4.svg" alt="Java"> <img height="48" src="img/flutter.svg" alt="Flutter"> <img height="48" src="img/dart.svg" alt="Dart"> <img height="48" src="img/linux-original.svg" alt="linux"> <img height="48" src="img/apple-13.svg" alt="ios"> <img height="48" src="img/firebase-1.svg" alt="firebase"> <img height="48" src="img/json.svg" alt="Json"> <img height="48" src="img/microsoft-sql-server-1.svg" alt="SQL">
+<img height="48" src="img/android.svg" alt="Android"> <img height="48" src="img/java-4.svg" alt="Java"> <img height="48" src="img/flutter.svg" alt="Flutter"> <img height="48" src="img/dart.svg" alt="Dart"> <img height="48" src="img/apple-13.svg" alt="ios"> <img height="48" src="img/firebase-1.svg" alt="firebase"> <img height="48" src="img/json.svg" alt="Json"> <img height="48" src="img/microsoft-sql-server-1.svg" alt="SQL">
 
 #### Development Stuffs:
 
