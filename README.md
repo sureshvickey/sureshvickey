@@ -7,11 +7,11 @@
 #### Bio
 
 - 🏢 I'm currently working at **ClubCar**
-- ⚙️ I use daily: `.py`, `.js`, `.yml`, `.sh`
-- 🌍 I'm mostly active within the **Python Community**
-- 🌱 Learning all about **DevOps**
-- 💬 Ping me about **Django**, **Python**, **Docker**, **RestAPIs**, **Keycloak**
-- 📫 Reach me: [twitter.com/sudiptob2](https://twitter.com/sudiptob2)
+- ⚙️ I use daily: `.java`, `.xml`, `.dart`, `.json`
+- 🌍 I'm mostly active within the **Android Community**
+- 🌱 Learning all about **Hybrid Apps**
+- 💬 Ping me about **ANDROID**, **JAVA**, **FLUTTER**, **RestAPIs**
+- 📫 Reach me: [Webtite: SureshVickey](https://Sureshvickey.github.io)
 - 📝 Checkout my [Resume](files/resume.pdf).
 
 #### My Current Stack
