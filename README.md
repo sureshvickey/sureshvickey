@@ -2,7 +2,7 @@
 
 #### Now
 - :fire: Interested in Hybrid Application Development;
-- :calendar: Looking for Opportunity in Mobile Application Development
+<!-- - :calendar: Looking for Opportunity in Mobile Application Development -->
 
 #### Bio
 
