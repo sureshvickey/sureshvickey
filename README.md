@@ -19,12 +19,12 @@
 <img height="48" src="img/android.svg" alt="Android"> <img height="48" src="img/java-4.svg" alt="Java"> <img height="48" src="img/flutter.svg" alt="Flutter"> <img height="48" src="img/dart.svg" alt="Dart"> <img height="48" src="img/apple-13.svg" alt="ios"> <img height="48" src="img/firebase-1.svg" alt="firebase"> <img height="48" src="img/json.svg" alt="Json"> <img height="48" src="img/microsoft-sql-server-1.svg" alt="SQL">
 
 #### Development Stuffs:
-
+<!-- 
 <b>⚡ Github Stats</b>
 <p float="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sureshvickey&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sureshvickey&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-</p>
+</p> -->
 
 #### Connect With Me
 
