@@ -9,7 +9,7 @@
 - 🏢 I'm currently working at **ClubCar**
 - ⚙️ I use daily: `.java`, `.xml`, `.dart`, `.json`
 - 🌍 I'm mostly active within the **Android Community**
-- 🌱 Learning all about **Hybrid Apps**
+- 🌱 Learning all about **Cross platform Apps**
 - 💬 Ping me about **ANDROID**, **JAVA**, **FLUTTER**, **RestAPIs**
 - 📫 Reach me: [Webtite: SureshVickey](https://Sureshvickey.github.io)
 - 📝 Checkout my [Resume](files/resume.pdf).
