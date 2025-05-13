@@ -1,7 +1,7 @@
-## Hi 👋, I'm a software engineer working in Bangalore, India
+## Hi 👋, I'm a Senior software engineer working in Bangalore, India
 
 #### Now
-- :fire: Interested in Hybrid Application Development;
+- :fire: Interested in Mobile Application Development;
 <!-- - :calendar: Looking for Opportunity in Mobile Application Development -->
 
 #### Bio
